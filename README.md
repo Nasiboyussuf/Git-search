@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Description
 This is an application that enables a user to search for other users using the github API. It displays the searched user's name, details, a list of their repositories and links to those repo
 # Author
-Nasibo Yussuf
+### Nasibo Yussuf
 ## Behaviour Driven Development
 | Input        | Behaviour           | Outcome  |
 | ------------- |:-------------:| -----:|
